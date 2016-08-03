@@ -1,3 +1,8 @@
+//titulo:textBrakingSound4
+//descripcion: sketch que mueve un texto en función de entrada de audio
+//creado: 15 de mayo 2016
+
+
 PFont f;
 String message = "make click to shake it up";
 String message2 = "hacer click para sacudir";
